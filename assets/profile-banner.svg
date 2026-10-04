@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="48" y1="20" x2="1140" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10131D"/>
+      <stop offset=".54" stop-color="#171A2B"/>
+      <stop offset="1" stop-color="#101D2A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="628" y1="67" x2="1110" y2="265" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B7BFF" stop-opacity=".12"/>
+      <stop offset=".52" stop-color="#8B7BFF" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#53D6C8" stop-opacity=".72"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(212 158 -205 276 941 113)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6961DB" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#6961DB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0v36" stroke="#D4D9F2" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <path d="M694 202h95l34-35h76l37-39h72l36-36h96" stroke="url(#line)" stroke-width="2"/>
+  <path d="M760 251h78l40-40h106l31-31h89l39-39h62" stroke="url(#line)" stroke-opacity=".58" stroke-width="1.5"/>
+  <path d="M824 91h73l27 27h68l25 25h102l29 29h57" stroke="url(#line)" stroke-opacity=".4" stroke-width="1.5"/>
+  <circle cx="823" cy="167" r="4" fill="#A89BFF"/>
+  <circle cx="936" cy="128" r="4" fill="#A89BFF"/>
+  <circle cx="1036" cy="92" r="4" fill="#71E1D2"/>
+  <circle cx="878" cy="211" r="3" fill="#A89BFF"/>
+  <circle cx="984" cy="211" r="3" fill="#71E1D2"/>
+  <text x="72" y="72" fill="#A9A5FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">FULL-STACK DEVELOPER  /  SAINT PETERSBURG</text>
+  <text x="68" y="153" fill="#F3F4FA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Ilya Zamyatin</text>
+  <text x="72" y="197" fill="#AEB5C8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="19">Building products from interface to infrastructure.</text>
+  <rect x="72" y="232" width="8" height="8" rx="4" fill="#59D4C5"/>
+  <text x="92" y="241" fill="#C7CCDA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">WEB APPS  ·  SYSTEMS  ·  AUTOMATION</text>
+  <rect x="1" y="1" width="1198" height="298" rx="23" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="2"/>
+</svg>
