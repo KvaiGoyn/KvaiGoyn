@@ -35,7 +35,8 @@
     </td>
     <td width="50%" valign="top">
       <br />
-      <strong>Мобильное приложение RES SPACE</strong><br /><br />
+      <strong>Мобильное приложение RES SPACE</strong><br />
+      <sub><a href="https://apps.apple.com/app/id6760478758">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.res_space">Google Play</a></sub><br /><br />
       Клиентское приложение и backend для цифровых сервисов сети клубов: бронирование, сервисы для гостей и интеграции с внутренними системами.<br /><br />
       <sub>React Native · TypeScript · Python · FastAPI</sub>
       <br />
@@ -60,7 +61,7 @@
   <tr>
     <td width="50%" valign="top">
       <br />
-      <strong>CS2 Control Plane</strong><br /><br />
+      <strong><a href="https://cs2res.ru">CS2 Control Plane</a></strong><br /><br />
       Платформа управления игровой инфраструктурой: серверы, матчи и инструменты для администраторов и игроков.<br /><br />
       <sub>Full-stack · Backend · Инфраструктура</sub>
       <br />
