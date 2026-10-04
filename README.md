@@ -103,13 +103,53 @@
 
 ## Технологии
 
-<p>
+<p><strong>Языки и интерфейсы</strong><br />
+  <img alt="Python" src="https://img.shields.io/badge/Python-171923?style=flat-square&logo=python&logoColor=FFD43B" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-171923?style=flat-square&logo=typescript&logoColor=80A9FF" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-171923?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-171923?style=flat-square&logo=python&logoColor=FFD43B" />
+  <img alt="React" src="https://img.shields.io/badge/React-171923?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-171923?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-171923?style=flat-square&logo=vuedotjs&logoColor=42D392" />
   <img alt="Electron" src="https://img.shields.io/badge/Electron-171923?style=flat-square&logo=electron&logoColor=9FEAF9" />
+  <img alt="HTML и CSS" src="https://img.shields.io/badge/HTML%20%26%20CSS-171923?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-171923?style=flat-square&logo=vite&logoColor=646CFF" />
+</p>
+
+<p><strong>Backend и данные</strong><br />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-171923?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-171923?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-171923?style=flat-square" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-171923?style=flat-square&logo=graphql&logoColor=E10098" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-171923?style=flat-square" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-171923?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-171923?style=flat-square&logo=sqlite&logoColor=74A9DC" />
+  <img alt="Alembic" src="https://img.shields.io/badge/Alembic-171923?style=flat-square" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-171923?style=flat-square&logo=redis&logoColor=FF4438" />
+  <img alt="Celery" src="https://img.shields.io/badge/Celery-171923?style=flat-square&logo=celery&logoColor=A9CC54" />
+  <img alt="Taskiq · ARQ" src="https://img.shields.io/badge/Taskiq%20%C2%B7%20ARQ-171923?style=flat-square" />
+  <img alt="WebSocket · SSE" src="https://img.shields.io/badge/WebSocket%20%C2%B7%20SSE-171923?style=flat-square" />
+</p>
+
+<p><strong>Инфраструктура и интеграции</strong><br />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-171923?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-171923?style=flat-square&logo=docker&logoColor=2496ED" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-171923?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-171923?style=flat-square&logo=nginx&logoColor=009639" />
+  <img alt="Pterodactyl" src="https://img.shields.io/badge/Pterodactyl-171923?style=flat-square" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-171923?style=flat-square&logo=firebase&logoColor=FFCA28" />
+  <img alt="S3 · MinIO" src="https://img.shields.io/badge/S3%20%C2%B7%20MinIO-171923?style=flat-square" />
+  <img alt="iiko" src="https://img.shields.io/badge/iiko-171923?style=flat-square" />
+  <img alt="SmartShell" src="https://img.shields.io/badge/SmartShell-171923?style=flat-square" />
+  <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram%20Bot%20API-171923?style=flat-square&logo=telegram&logoColor=26A5E4" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-171923?style=flat-square&logo=githubactions&logoColor=2088FF" />
+  <br /><sub>Тестирование: pytest · Jest · Vitest · Playwright · Ruff</sub>
+</p>
+
+<p><strong>ИИ и автоматизация</strong><br />
+  <img alt="AI Engineering" src="https://img.shields.io/badge/AI%20Engineering-171923?style=flat-square" />
+  <img alt="LLM API" src="https://img.shields.io/badge/LLM%20API-171923?style=flat-square" />
+  <img alt="AI Assistants" src="https://img.shields.io/badge/AI%20Assistants-171923?style=flat-square" />
+  <img alt="Business Automation" src="https://img.shields.io/badge/Business%20Automation-171923?style=flat-square" />
 </p>
 
 ## Обсудить проект
