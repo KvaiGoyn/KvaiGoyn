@@ -1,53 +1,53 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Ilya Zamyatin — Full-stack developer" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Илья Замятин — full-stack разработчик" width="100%" />
 </div>
 
 <div align="center">
 
-### I build useful software, from polished interfaces to the systems behind them.
+### Создаю полезные продукты — от интерфейсов до систем, которые стоят за ними.
 
-Full-stack developer at **RES Technology** · ITMO University · Saint Petersburg, Russia
+Full-stack-разработчик в **RES Technology** · Университет ИТМО · Санкт-Петербург
 
-[**Portfolio**](https://kvaigoyn.github.io/portfolio/) &nbsp;·&nbsp; [**Projects**](https://github.com/KvaiGoyn?tab=repositories)
+[**Портфолио**](https://kvaigoyn.github.io/portfolio/) &nbsp;·&nbsp; [**Проекты**](https://github.com/KvaiGoyn?tab=repositories)
 
 </div>
 
 ---
 
-## What I work on
+## Чем занимаюсь
 
-I enjoy taking a product from its first screen to the services and automation that keep it running. Lately, that means web applications, internal tools, and infrastructure around CS2 servers.
+Мне нравится создавать продукт целиком: от первого экрана до сервисов и автоматизации, которые обеспечивают его работу. Сейчас я работаю над веб-приложениями, внутренними инструментами и инфраструктурой для серверов CS2.
 
-## Selected work
+## Избранные проекты
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/KvaiGoyn/CS2_server">CS2 Server Manager</a></strong><br />
-      Desktop control panel for creating and managing Counter-Strike 2 servers.<br /><br />
+      Настольное приложение для создания и управления серверами Counter-Strike 2.<br /><br />
       <sub>Electron · Vue · JavaScript</sub>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/KvaiGoyn/RESSpace-CS2-Egg">CS2 Pterodactyl Egg</a></strong><br />
-      Server setup and maintenance automation, with custom scripts and documentation.<br /><br />
+      Настройка и автоматизация обслуживания серверов: скрипты и документация.<br /><br />
       <sub>Shell · Pterodactyl · CS2</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/KvaiGoyn/CS2_server_v2">CS2 Server Manager v2</a></strong><br />
-      A new iteration of a desktop tool for server administration.<br /><br />
+      Новая версия настольного инструмента для администрирования серверов.<br /><br />
       <sub>TypeScript · Electron</sub>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://kvaigoyn.github.io/portfolio/">Personal portfolio</a></strong><br />
-      A closer look at my work, experience, and projects.<br /><br />
+      <strong><a href="https://kvaigoyn.github.io/portfolio/">Личное портфолио</a></strong><br />
+      Мои проекты, опыт и профессиональный путь.<br /><br />
       <sub>HTML · CSS · JavaScript</sub>
     </td>
   </tr>
 </table>
 
-## Tools I use
+## Технологии
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-171923?style=flat-square&logo=typescript&logoColor=80A9FF" />
@@ -58,10 +58,10 @@ I enjoy taking a product from its first screen to the services and automation th
   <img alt="Linux" src="https://img.shields.io/badge/Linux-171923?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
 
-## Say hello
+## Контакты
 
-For more about me and my work, visit **[kvaigoyn.github.io/portfolio](https://kvaigoyn.github.io/portfolio/)**.
+Подробнее обо мне и моей работе — в **[портфолио](https://kvaigoyn.github.io/portfolio/)**.
 
 <div align="center">
-  <sub>Thanks for stopping by — feel free to explore the repos.</sub>
+  <sub>Спасибо, что заглянули! Буду рад, если вы посмотрите мои проекты.</sub>
 </div>
